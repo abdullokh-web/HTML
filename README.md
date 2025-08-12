@@ -1,7 +1,7 @@
 # 📚 30-Day Pure HTML Challenge
 
 Author: **Odilov Abdulloх**  
-Telegram Channel: [@aBDULLOKHBLOG](https://t.me/aBDULLOKHBLOG)
+Telegram Channel: [@AbdullokhBlog](https://t.me/AbdullokhBlog)
 
 ---
 
